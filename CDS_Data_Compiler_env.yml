@@ -1,0 +1,8 @@
+name: CDS_Data_Compiler_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - watchdog
+  - pandas
+  - tkinter
