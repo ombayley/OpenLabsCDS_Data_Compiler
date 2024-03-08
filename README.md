@@ -11,9 +11,9 @@ interpolation of the missing data is performed to give the final 3D data with a 
 ---
 ### Useage
 
-This package can be run directly from the executable file (dist folder), or from the gui.py script via commandline or a Python IDE.
+This package can be run directly as an executable file, or from the gui.py script via commandline or a Python IDE.
 
-If you decide to run the program from the python script, it is recomnded that you creating an isolated conda environment to avoid any problems with your installed Python packages.
+If running the program from the python script, it is recomnded that you creating an isolated conda environment to avoid any problems with your installed Python packages.
 For this purpose, the environment .yml file is provided which can be used to create the conda environment and to install the program dependencies.
 
     conda env create -f CDS_Data_Compiler_env.yml
